@@ -1,0 +1,2 @@
+C:/Users/kalak/Downloads/Desktop/New folder/android/app/.cxx/Debug/33506vt6/x86/CMakeFiles/edit_cache.dir
+C:/Users/kalak/Downloads/Desktop/New folder/android/app/.cxx/Debug/33506vt6/x86/CMakeFiles/rebuild_cache.dir
